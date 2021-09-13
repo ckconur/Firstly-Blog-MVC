@@ -1,0 +1,100 @@
+﻿@inject IHttpContextAccessor HttpContextAccessor
+@model ArticleVM
+@{
+    ViewData["Title"] = "Write";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<section class="row">
+    <div class="col-xl-7 mx-auto">
+        <div class="mb-3">
+            <img class="mb-3 border" style="max-height:100px; max-width:100px;" src="" id="currentHeader" />
+            <label for="headerImage" class="form-label">Profil Fotoğrafı</label>
+            <input class="form-control" size="2" style="max-width:700px" accept="image/png" id="headerImage" type="file" required>
+        </div>
+        <div class="mb-3 row">
+            <select class="form-select" id="topicName" aria-label="Default select example">
+                <option selected >Başlık seçmek için tıklayın</option>
+                @foreach (TopicVM item in ViewBag.Topics)
+                {
+                    <option value="@item.TopicId">@item.TopicName</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="articleTitle" class="col-sm-2 col-form-label">Hikaye Başlığı</label>
+                <input type="email" class="form-control" id="articleTitle" required>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="articleContent" class="col-sm-2 col-form-label">İçerik alanı</label>
+                <textarea class="form-control" id="articleContent"></textarea>
+            </div>
+        </div>
+        <div class="mb-3 d-grid">
+            <button class="btn btn-dark btn-lg" style="max-width:700px" id="btnPublish">Hikayeyi Yayınla</button>
+        </div>
+        <div class="alert alert-warning mb-3" role="alert" id="successAlert">
+        </div>
+    </div>
+</section>
+
+@section scripts{
+
+    <script>
+        const ppInput = document.getElementById('headerImage');
+        ppInput.addEventListener('change', handleFiles, false);
+
+        function handleFiles() {
+            if (!this.files.length) {
+                console.log("No files selected!");
+            }
+            else {
+                const imgArea = document.getElementById('currentHeader');
+                imgArea.src = '#';
+                imgArea.src = URL.createObjectURL(this.files[0]);
+            }
+        }
+
+        function getBase64Image() {
+            let imgArea = document.getElementById('currentHeader');
+            var canvas = document.createElement('canvas');
+            canvas.width = imgArea.naturalWidth;
+            canvas.height = imgArea.naturalHeight;
+            var ctx = canvas.getContext('2d');
+            ctx.drawImage(imgArea, 0, 0);
+            var dataURL = canvas.toDataURL("image/png");
+            return dataURL.replace(/^data:image\/(png|jpg);base64,/, "");
+        }
+
+        $("#btnPublish").click(function () {
+            var article = {
+                writerId: @HttpContextAccessor.HttpContext.Session.GetInt32("userId"),
+                topicId: $("#topicName").val(),
+                title: $("#articleTitle").val(),
+                content: $("#articleContent").val(),
+                base64HeaderImage: getBase64Image(),
+            };
+
+            publishArticle(article);
+        });
+
+        function publishArticle(article) {
+            $.ajax({
+                url: "/Article/PublishArticle/",
+                type: "POST",
+                data: article,
+                success: function (res) {
+                    window.location = res.redirectToUrl;
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+        }
+
+    </script>
+
+}

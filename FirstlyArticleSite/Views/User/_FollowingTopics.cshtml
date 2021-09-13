@@ -1,0 +1,14 @@
+﻿@inject IHttpContextAccessor HttpContextAccessor
+@model List<TopicVM>
+
+<ul class="list-group">
+    @foreach (TopicVM item in Model)
+    {
+        <li class="list-group-item">@item.TopicName</li>
+
+    }
+
+    <li style="list-style:none;"><a href="@Url.Action("List","Topics",new { id = HttpContextAccessor.HttpContext.Session.GetInt32("userId")})" class="list-group-item list-group-item-action">Konuların hepsini görmek için tıklayın</a></li>
+</ul>
+
+

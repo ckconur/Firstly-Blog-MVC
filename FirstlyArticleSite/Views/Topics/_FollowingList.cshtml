@@ -1,0 +1,11 @@
+﻿
+@model List<TopicVM>
+
+@if (Model != null)
+{
+    @foreach (TopicVM item in Model)
+    {
+        <a href="#" class="list-group-item list-group-item-action f-topic-item" onclick="unfollowTopic(@item.TopicId)">@item.TopicName</a>
+    }
+}
+

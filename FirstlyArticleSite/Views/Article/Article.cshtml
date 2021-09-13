@@ -1,0 +1,73 @@
+﻿@model ArticleVM
+@{
+    ViewData["Title"] = "Article";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<div class="my-4 px-3">
+    <section class="row">
+        <div class="col-xl-3 mb-4 d-flex justify-content-center" style="max-height:25rem;" id="writerArea">
+            <div class="card" style="width:15rem;">
+                <a href="@Url.Action("Detail","Writer", new { url = ViewBag.Writer.Url })"><img class="card-img-top" src="@ViewBag.Writer.ProfilePicture" /></a>
+                <h5 class="card-title">Kullanıcı Adı: @ViewBag.Writer.UserName</h5>
+                <h6 class="card-subtitle">Ad Soyad: @(ViewBag.Writer.FirstName + ViewBag.Writer.LastName)</h6>
+                <p class="card-text">Hakkında: @ViewBag.Writer.AboutMe</p>
+            </div>
+        </div>
+
+        <div class="col-xl-9 bg-light" id="contentArea">
+            <div class="row text-light">
+                <div class="col-sm-2 d-flex justify-content-center border border-dark border-top-0 border-start-0 border-end-0 py-2">
+                    <img src="@Model.Base64HeaderImage" style="max-height:150px" />
+                </div>
+                <div class="col-sm-10 d-flex bg-dark">
+                    <div class="my-auto border-2">
+                        <div class="row">
+                            <p class="mb-0 fw-lighter fs-6">Ortalama okuma süresi: @Model.AvarageReadingTime dakika <br />Okunma Sayısı: @Model.ViewCount</p>
+                        </div>
+                        <div class="row">
+                            <h2 class="align-self-center fw-bolder mt-2 text-firstly-primary">@Model.Title <a class="ms-2 text-firstly-primary text-decoration-none" href="@Url.Action("SaveArticle","User",new { id = Model.ArticleId })"><i class="fas fa-bookmark"></i></a></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row my-4 fs-5">
+                <p>@Model.Content</p>
+            </div>
+            <div class="row">
+                <div id="1x">
+                    <div class="d-flex fs-4 fw-bold"><span id="likeButton"><i class="fas fa-thumbs-up text-firstly-primary" onclick="likeArticle(@Model.ArticleId)"></i></span><span class="text-firstly-primary ms-2" id="likeCount">@ViewBag.LikeCount</span></div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+</div>
+
+@section scripts{
+
+    <script>
+
+        function likeArticle(id) {
+            $.ajax({
+                url: "/Article/Like/" + id,
+                type: "POST",
+                success: function (res) {
+                    if (isNaN(res)) {
+                        window.location.href = res.redirectToUrl;
+                    }
+                    else {
+
+                        $("#likeCount").html(res);
+                    }
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+        }
+
+    </script>
+}

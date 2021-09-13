@@ -1,0 +1,906 @@
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\appsettings.json
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\libman.json
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.exe
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.deps.json
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.runtimeconfig.json
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.runtimeconfig.dev.json
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ref\FirstlyArticleSite.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.Views.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.Views.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\MailKit.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.csproj.AssemblyReference.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.AssemblyInfoInputs.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.AssemblyInfo.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.csproj.CoreCompileInputs.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorAssemblyInfo.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorAssemblyInfo.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\staticwebassets\FirstlyArticleSite.StaticWebAssets.Manifest.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\staticwebassets\FirstlyArticleSite.StaticWebAssets.xml
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\scopedcss\bundle\FirstlyArticleSite.styles.css
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.TagHelpers.input.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.TagHelpers.output.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorCoreGenerate.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Article\Article.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Article\Write.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\_MostViewedArticles.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\List.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\_FollowingList.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\_UnfollowingList.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\_FollowingArticles.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\_FollowingTopics.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\_MostViewedArticles.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Writer\Detail.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Writer\_WriterArticles.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorTargetAssemblyInfo.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorTargetAssemblyInfo.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.Views.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.csproj.CopyComplete
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\ref\FirstlyArticleSite.dll
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.pdb
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.genruntimeconfig.cache
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Published.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Article\Update.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\AllTopics.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\_ArticleOfTopic.cshtml.g.cs
+C:\Users\Sinapsiks\source\Workspaces\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Saved.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\appsettings.Development.json
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\appsettings.json
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\libman.json
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.exe
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.deps.json
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.runtimeconfig.json
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.runtimeconfig.dev.json
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ref\FirstlyArticleSite.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\netstandard.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Console.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Data.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Web.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.Views.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\FirstlyArticleSite.Views.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Humanizer.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\MailKit.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\MimeKit.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.csproj.AssemblyReference.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.AssemblyInfoInputs.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.AssemblyInfo.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.csproj.CoreCompileInputs.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.MvcApplicationPartsAssemblyInfo.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.MvcApplicationPartsAssemblyInfo.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorAssemblyInfo.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorAssemblyInfo.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\staticwebassets\FirstlyArticleSite.StaticWebAssets.Manifest.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\staticwebassets\FirstlyArticleSite.StaticWebAssets.xml
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\scopedcss\bundle\FirstlyArticleSite.styles.css
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.TagHelpers.input.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.TagHelpers.output.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorCoreGenerate.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Article\Article.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Article\Update.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Article\Write.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\AboutUs.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Home\_MostViewedArticles.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\AllTopics.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\List.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\_ArticleOfTopic.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\_FollowingList.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Topics\_UnfollowingList.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Published.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\Saved.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\_FollowingArticles.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\_FollowingTopics.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\User\_MostViewedArticles.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Writer\Detail.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\Writer\_WriterArticles.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorTargetAssemblyInfo.cache
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.RazorTargetAssemblyInfo.cs
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.Views.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.csproj.CopyComplete
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\ref\FirstlyArticleSite.dll
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.pdb
+D:\Ders\BilgeAdam\Gizem Hoca\Ödevler\FistlyBlogMVC\FirstlyBlog\FirstlyArticleSite\obj\Debug\net5.0\FirstlyArticleSite.genruntimeconfig.cache

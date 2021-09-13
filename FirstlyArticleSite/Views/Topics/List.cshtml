@@ -1,0 +1,92 @@
+﻿@inject IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<section class="container my-4">
+    <div class="row">
+        <div class="col-md-6 border-bottom py-3">
+            <h3 class="text-center bg-dark text-light py-2 fw-bolder fs-4">Takip Edilenler</h3>
+            <div class="list-group" id="followingTopics">
+
+            </div>
+        </div>
+        <div class="col-md-6 border-bottom py-3">
+            <h3 class="text-center bg-dark text-light py-2 fw-bolder fs-4">Takip Edilebilecekler</h3>
+            <div class="list-group" id="unfollowingTopics">
+
+            </div>
+        </div>
+    </div>
+</section>
+
+@section scripts{
+    <script>
+
+        $('document').ready(function () {
+            getFollowingTopics(@HttpContextAccessor.HttpContext.Session.GetInt32("userId"));
+            getUnfollowingTopics(@HttpContextAccessor.HttpContext.Session.GetInt32("userId"));
+        })
+
+        function getFollowingTopics(id) {
+            $.ajax({
+                url: "/Topics/FollowingList/" + id,
+                type: "GET",
+                success: function (response) {
+                    $('#followingTopics').html(response);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+        }
+
+        function getUnfollowingTopics(id) {
+            $.ajax({
+                url: "/Topics/UnfollowingList/" + id,
+                type: "GET",
+                success: function (response) {
+                    $('#unfollowingTopics').html(response);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+        }
+
+        function followTopic(id) {
+            console.log(id);
+
+            $.ajax({
+                url: "/Topics/FollowTopic/" + id,
+                type: "Get",
+                success: function (response) {
+                    console.log(response);
+                    getFollowingTopics(@HttpContextAccessor.HttpContext.Session.GetInt32("userId"));
+                    getUnfollowingTopics(@HttpContextAccessor.HttpContext.Session.GetInt32("userId"));
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            })
+        }
+
+        function unfollowTopic(id) {
+            console.log(id);
+            $.ajax({
+                url: "/Topics/UnfollowTopic/" + id,
+                type: "Get",
+                success: function (response) {
+                    console.log(response);
+                    getFollowingTopics(@HttpContextAccessor.HttpContext.Session.GetInt32("userId"));
+                    getUnfollowingTopics(@HttpContextAccessor.HttpContext.Session.GetInt32("userId"));
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            })
+        }
+
+    </script>
+}

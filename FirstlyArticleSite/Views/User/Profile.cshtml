@@ -1,0 +1,140 @@
+﻿@model UserVM
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<section class="row">
+    <input type="hidden" value="@Model.UserId" id="userId"/>
+    <div class="col-xl-7 mx-auto">
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="email" class="col-sm-2 col-form-label">Email</label>
+                <input type="email" class="form-control" id="email" value="@Model.Email">
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="firstName" class="col-sm-2 col-form-label">Ad</label>
+
+                <input type="text" class="form-control" id="firstName" value="@Model.FirstName">
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="lastName" class="col-sm-2 col-form-label">Soyad</label>
+                <input type="text" class="form-control" id="lastName" value="@Model.LastName">
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="userName" class="col-sm-2 col-form-label">Kullanıcı Adı</label>
+                <input type="text" class="form-control" id="userName" value="@Model.UserName">
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="aboutMe" class="col-sm-2 col-form-label">Hakkımda</label>
+                <input type="text" class="form-control" id="aboutMe" value="@Model.AboutMe">
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-sm-10">
+                <label for="URL" class="col-sm-2 col-form-label">URL</label>
+                <input type="text" class="form-control" id="URL" value="@Model.Url">
+            </div>
+        </div>
+        <div class="mb-3">
+            <img class="mb-3 border" style="max-height:100px; max-width:100px;" src="@Model.ProfilePicture" id="currentPP" />
+            <label for="profilePicture" class="form-label">Profil Fotoğrafı</label>
+            <input class="form-control" size="2" style="max-width:700px" accept="image/png" id="profilePicture" type="file">
+        </div>
+        <div class="mb-3 d-grid">
+            <button class="btn btn-dark btn-lg" style="max-width:700px" id="btnUpdate">Profili Güncelle</button>
+        </div>
+        <div class="mb-3 d-grid">
+            <button class="btn btn-danger btn-lg" style="max-width:700px" id="btnDelete">Profili Sil</button>
+        </div>
+        <div class="alert alert-warning mb-3" role="alert" id="successAlert">
+        </div>
+    </div>
+</section>
+
+@section scripts{ 
+    <script>
+        const ppInput = document.getElementById('profilePicture');
+        ppInput.addEventListener('change', handleFiles, false);
+
+        function handleFiles() {
+            if (!this.files.length) {
+                console.log("No files selected!");
+            }
+            else {
+                const imgArea = document.getElementById('currentPP');
+                imgArea.src = '#';
+                imgArea.src = URL.createObjectURL(this.files[0]);
+            }
+        }
+
+        function getBase64Image() {
+            let imgArea = document.getElementById('currentPP');
+            var canvas = document.createElement('canvas');
+            canvas.width = imgArea.naturalWidth;
+            canvas.height = imgArea.naturalHeight;
+            var ctx = canvas.getContext('2d');
+            ctx.drawImage(imgArea, 0, 0);
+            var dataURL = canvas.toDataURL("image/png");
+            return dataURL.replace(/^data:image\/(png|jpg);base64,/, "");
+        }
+
+        $("#btnUpdate").click(function () {
+            var user = {
+                userId: $('#userId').val(),
+                email: $("#email").val(),
+                firstName: $("#firstName").val(),
+                lastName: $("#lastName").val(),
+                userName: $("#userName").val(),
+                aboutMe: $("#aboutMe").val(),
+                url: $("#URL").val(),
+                profilePicture: getBase64Image(),
+            };
+
+            updateUser(user);
+        });
+
+        $('#btnDelete').click(function () {
+            deleteUser(@Model.UserId);
+        })
+
+        function updateUser(user) {
+            $.ajax({
+                url: "/User/UpdateProfile/",
+                type: "POST",
+                data: user,
+                success: function (response) {
+                    $('#successAlert').html(response);
+
+                    console.log(response);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+        };
+
+        function deleteUser(id) {
+            $.ajax({
+                url: "/User/DeleteProfile/" + id,
+                type: "GET",
+                success: function (response) {
+                    $('#successAlert').html(response);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+           })
+        }
+
+    </script>
+}
+

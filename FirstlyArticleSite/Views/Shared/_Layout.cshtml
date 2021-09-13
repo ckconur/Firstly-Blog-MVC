@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/custom/MyStyle.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body style="background-color: rgb(243 243 243); min-height:1200px">
+    <!-- Navbar -->
+
+    <nav class="bg-dark">
+        <div class="container-xl">
+            <div class="nav navbar-expand-md navbar-dark bg-dark d-flex">
+                <a class="logo" href="@Url.Action("Index","Home")">firstly</a>
+                <button class="navbar-toggler" style="margin-left: auto !important" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapseContent" aria-controls="navbarCollapseContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon fs-6"></span>
+                </button>
+                <div class="collapse navbar-collapse d-md-flex mx-xl-4" id="navbarCollapseContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link text-light nav-redirect-button" href="@Url.Action("Index","Home")">Ana Sayfa</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light nav-redirect-button" href="@Url.Action("AllTopics","Topics")">Başlıklar</a>
+                        </li>
+                    </ul>
+
+                    <a class="btn btn-outline-light btn-sm" style="margin-left:auto;" href="@Url.Action("Login","Home")" >Giriş Yap</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Content -->
+    <div style="margin-bottom:100px">
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+
+    <footer class="bg-dark fixed-bottom mt-4">
+        <div class="container">
+            <div class="my-2">
+                <span class="text-center text-light d-block fs-6 fw-bold" style="letter-spacing: 3px;">Kendi hikayeni yaz...</span>
+            </div>
+            <div class="mb-2">
+                <span class="text-center text-light d-block fs-5 fw-light">Copyright by firstly &copy;</span>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/jquery/jquery.min.js"></script>
+    <script src="~/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

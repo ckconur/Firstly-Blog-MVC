@@ -1,0 +1,17 @@
+﻿@model List<ArticleVM>
+
+
+@foreach (ArticleVM item in Model)
+{
+    <div class="mb-2 row article-card">
+        <div class="col-3 d-flex">
+            <img src="@item.Base64HeaderImage" />
+        </div>
+        <div class="col-9 content">
+            <a href="@Url.Action("Article","Article",new { id= item.ArticleId})" class="title">@item.Title</a>
+            <p class="trailer">@(item.Content.Substring(0,20) + "...")</p>
+            <p class="date">@item.CreateDate</p>
+            <p class="count"><i class="fas fa-eye"></i>@item.ViewCount</p>
+        </div>
+    </div>
+}

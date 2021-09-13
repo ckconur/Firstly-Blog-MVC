@@ -1,0 +1,99 @@
+﻿@inject IHttpContextAccessor HttpContextAccessor
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/custom/MyStyle.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body style="background-color: rgb(243 243 243); min-height:1200px">
+    <!-- Navbar -->
+
+    <nav class="bg-dark">
+        <div class="container-xl">
+            <div class="nav navbar-expand-md navbar-dark bg-dark d-flex">
+
+                @if (HttpContextAccessor.HttpContext.Session.GetInt32("userId") != null)
+                {
+                    <a class="logo" href="/User/Index/">firstly</a>
+                }
+                else
+                {
+                    <a class="logo" href="/Home/Index/">firstly</a>
+                }
+
+
+                <button class="navbar-toggler" style="margin-left: auto !important" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapseContent" aria-controls="navbarCollapseContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon fs-6"></span>
+                </button>
+                <div class="collapse navbar-collapse d-md-flex mx-xl-4" id="navbarCollapseContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            @if (HttpContextAccessor.HttpContext.Session.GetInt32("userId") != null)
+                            {
+                                <a class="nav-link text-light nav-redirect-button" href="/User/Index/">Ana Sayfa</a>
+                            }
+                            else
+                            {
+                                <a class="nav-link text-light nav-redirect-button" href="/Home/Index/">Ana Sayfa</a>
+                            }
+
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light nav-redirect-button" href="@Url.Action("AllTopics","Topics")">Başlıklar</a>
+                        </li>
+                        @if (HttpContextAccessor.HttpContext.Session.GetInt32("userId") != null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-light nav-redirect-button" href="@Url.Action("Write","Article")"><i class="fas fa-feather-alt mx-2 text-firstly-primary"></i>Yaz</a>
+                            </li>
+                        }
+                    </ul>
+                    @if (HttpContextAccessor.HttpContext.Session.GetInt32("userId") != null)
+                    {
+                        <div class="dropdown ms-auto">
+                            <a class="btn btn-outline-light btn-sm dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">Profil</a>
+
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <li><a class="dropdown-item nav-redirect-button" href="@Url.Action("Profile","User",new { id = HttpContextAccessor.HttpContext.Session.GetString("url") })">Profile Git</a></li>
+                                <li><a class="dropdown-item nav-redirect-button" href="@Url.Action("Published","User",new { id = HttpContextAccessor.HttpContext.Session.GetInt32("userId") })">Yayınlananlar</a></li>
+                                <li><a class="dropdown-item nav-redirect-button" href="@Url.Action("Saved","User",new { id = HttpContextAccessor.HttpContext.Session.GetInt32("userId") })">Kaydedilenler</a></li>
+                                <li><a class="dropdown-item nav-redirect-button" href="@Url.Action("Logout","User",new { id = HttpContextAccessor.HttpContext.Session.GetInt32("userId") })">Çıkış Yap</a></li>
+                            </ul>
+                        </div>
+                    }
+                    else
+                    {
+                        <a class="btn btn-outline-light btn-sm" style="margin-left:auto;" href="@Url.Action("Login","Home")">Giriş Yap</a>
+                    }
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Content -->
+    <div style="margin-bottom:100px">
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+
+    <footer class="bg-dark fixed-bottom">
+        <div class="container">
+            <div class="my-2">
+                <span class="text-center text-light d-block fs-6 fw-bold" style="letter-spacing: 3px;">Kendi hikayeni yaz...</span>
+            </div>
+            <div class="mb-2">
+                <span class="text-center text-light d-block fs-5 fw-light">Copyright by firstly &copy;</span>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/jquery/jquery.min.js"></script>
+    <script src="~/bootstrap/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("scripts", false)
+</body>
+</html>

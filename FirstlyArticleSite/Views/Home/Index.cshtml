@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header id="header">
+    <div class="container-xl py-3 pb-0">
+        <div class="row">
+            <div class="col-8">
+                <div class="row mb-1">
+                    <h2>Yaz, oku ve tartış</h2>
+                </div>
+
+                <div class="row">
+                    <p style="">Hikayemizi okuyup <a id="direction" href="@Url.Action("AboutUs","Home")">kayıt</a> yapabilirsiniz!</p>
+                </div>               
+            </div>
+            <div class="col-4 d-flex">
+                <img class="header-picture" src="~/images/4457753.jpg"/>
+            </div>
+        </div>
+    </div>    
+</header>
+
+<section id="mainContent" class="container py-4">
+    <div class="row g-5">
+        <div class="col-xl-6" id="mostViewedArticles">
+            <div class="mb-1">
+                <h4 class="text-center fw-bolder">En Çok Görüntülenen</h4>
+            </div>
+            <partial name="_MostViewedArticles" model="ViewBag.MostViewed" />
+        </div>
+
+        <div class="col-xl-6" id="randomArticles">
+            <div class="mb-1">
+                <h4 class="text-center fw-bolder">Rastgele Yazılar</h4>
+            </div>
+
+            <partial name="_MostViewedArticles" model="ViewBag.RandomArticles" />
+        </div>
+    </div>
+</section>
+
+
+

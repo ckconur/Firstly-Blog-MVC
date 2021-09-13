@@ -1,0 +1,46 @@
+﻿@model List<TopicVM>
+@{
+    ViewData["Title"] = "AllTopics";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<section class="container my-3">
+    <div class="row">
+        <div class="my-3">
+            <select class="form-select" id="allTopics">
+                <option selected>Bir Konu Başlığı Seçin</option>
+                @foreach (TopicVM item in Model)
+                {
+                    <option value="@item.TopicId">@item.TopicName</option>
+                }
+            </select>
+        </div>
+
+        <div class="px-4" id="articlesOfSelectedTopic">
+
+        </div>
+    </div>
+</section>
+
+@section scripts{ 
+
+    <script>
+        const selectBox = document.getElementById('allTopics');
+        selectBox.addEventListener("change", function (ev) {
+            $.ajax({
+                url: "/Topics/ArticlesOfTopic/" + $("#allTopics").val(),
+                type: "GET",
+                success: function (res) {
+                    $('#articlesOfSelectedTopic').html(res);
+                },
+                error: function (er) {
+                    console.log(er);
+                }
+
+            })
+        });
+
+    </script>
+
+
+}
